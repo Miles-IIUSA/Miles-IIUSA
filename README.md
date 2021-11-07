@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello! 👋
 
+You can find more about me at http://milesmurdocca.com
 <!--
 **Miles-IIUSA/Miles-IIUSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
